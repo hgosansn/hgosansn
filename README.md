@@ -1,8 +1,6 @@
-## Greetings earthling
-Here lies the proud owner of many unfinished projects
-Now @hsanson was taken on github but at least i own the domain
-https://hsanson.com/
-
+Here lies the proud owner of unfinished projects
+- An empty domain at https://hsanson.com/
+- And many more to come
 <!--
 **hgosansn/hgosansn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
