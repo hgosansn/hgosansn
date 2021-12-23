@@ -1,6 +1,8 @@
-Here lies the proud owner of unfinished projects
-- An empty domain at https://hsanson.com/
-- And many more to come
+Here lies the proud owner of ever unfinished projects
+An empty domain at https://hsanson.com/ 
+been following the guidelines to make a https://perfectmotherfuckingwebsite.com/
+And honestly it just works
+
 <!--
 **hgosansn/hgosansn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
