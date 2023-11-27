@@ -16,12 +16,14 @@ Run Language Models to automate all the things :
 
 Discover, download, and run local LLMs: https://lmstudio.ai/
 
-## Make art: 
+## Make art
+
+This here leads to a rabbit hole, so be warned, infinte possiblities 💥
 
 - Comfy UI : ⚡ https://github.com/comfyanonymous/ComfyUI ⚡
 - StableDiffusionXL
-- Control Nets with pencils
-- Inpainting
+- Control Nets ✏️ pencils to supercharge your drawing skills
+- Inpainting the latent image
 - HotShotXL for animations
 
 Side project art 🐥 https://instagram.com/debain_canard
