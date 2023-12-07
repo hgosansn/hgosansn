@@ -1,7 +1,7 @@
 
 ## 🔭 Do it yourself 🌱
 
-ThreeJS Playgroud aesthics showcase, fun toy
+ThreeJS Playgroud aesthetics showcase, fun toy
 
 - 🌍 https://hgosansn.github.io/threeJs_atmosphere/
 
