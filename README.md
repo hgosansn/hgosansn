@@ -26,7 +26,9 @@ This here leads to a rabbit hole, so be warned, infinte possiblities 💥
 - Inpainting the latent image
 - HotShotXL for animations
 
-Side project art 🐥 https://instagram.com/debain_canard
+Side project art 🐥
+A French Rubber Duck #rubberduckarmy
+- https://instagram.com/debain_canard
 
 Good'day 👋
 
