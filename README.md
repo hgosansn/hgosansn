@@ -7,8 +7,7 @@ ThreeJS Playgroud aesthetics showcase, fun toy
 
 Template to host a github page deployment workflow with live reload on any JS framework.
 
-- 🔧 https://hgosansn.github.io/webpack_tmp777/
-
+- 🔧 https://github.com/hgosansn/webpack_tmp777
 
 ## AI will take your job, why not make AI work for you ?
 
@@ -16,7 +15,7 @@ Run Language Models to automate all the things :
 
 Discover, download, and run local LLMs: https://lmstudio.ai/
 
-## Make art
+## Art & Creation✨
 
 This here leads to a rabbit hole, so be warned, infinte possiblities 💥
 
