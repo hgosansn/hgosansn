@@ -17,7 +17,7 @@ Discover, download, and run local LLMs: https://lmstudio.ai/
 
 ## Art & Creation✨
 
-This here leads to a rabbit hole, so be warned, infinte possiblities 💥
+Tech meets art generation 💥
 
 - Comfy UI : ⚡ https://github.com/comfyanonymous/ComfyUI ⚡
 - StableDiffusionXL
