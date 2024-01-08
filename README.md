@@ -20,10 +20,12 @@ Discover, download, and run local LLMs: https://lmstudio.ai/
 Tech meets art generation 💥
 
 - Comfy UI : ⚡ https://github.com/comfyanonymous/ComfyUI ⚡
-- StableDiffusionXL
-- Control Nets ✏️ pencils to supercharge your drawing skills
-- Inpainting the latent image
-- HotShotXL for animations
+- StableDiffusion XL : https://stability.ai/
+- Control Nets 🖌️ : https://weirdwonderfulai.art/tutorial/how-to-use-control-lora-sdxl-for-comfyui/
+- IpAdapters : https://github.com/tencent-ailab/IP-Adapter
+- SVD : https://stability.ai/news/stable-video-diffusion-open-ai-video-model
+- AnimateDiff
+- HotShot XL
 
 Side project art 🐥
 A French Rubber Duck #rubberduckarmy
