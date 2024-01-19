@@ -7,6 +7,7 @@ ThreeJS Playgroud aesthetics showcase, fun toy
 
 Template to host a github page deployment workflow with live reload on any JS framework.
 
+@Deprecated (Dependencies are outdated and need work)
 - 🔧 https://github.com/hgosansn/webpack_tmp777
 
 ## AI will take your job, why not make AI work for you ?
