@@ -1,14 +1,6 @@
 
 ## 🔭 Do it yourself 🌱
-
-ThreeJS Playgroud aesthetics showcase, fun toy
-
-- 🌍 https://hgosansn.github.io/threeJs_atmosphere/
-
-Template to host a github page deployment workflow with live reload on any JS framework.
-
-@Deprecated (Dependencies are outdated and need work)
-- 🔧 https://github.com/hgosansn/webpack_tmp777
+ThreeJS Playgroud aesthetics showcase, fun toy - 🌍 https://hgosansn.github.io/threeJs_atmosphere/
 
 ## AI will take your job, why not make AI work for you ?
 
@@ -26,7 +18,7 @@ Tech meets art generation 💥
 - IpAdapters : https://github.com/tencent-ailab/IP-Adapter
 - SVD : https://stability.ai/news/stable-video-diffusion-open-ai-video-model
 - AnimateDiff
-- HotShot XL
+- HotShot XL 👯
 
 Side project art 🐥
 A French Rubber Duck #rubberduckarmy
