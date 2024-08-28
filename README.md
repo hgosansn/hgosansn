@@ -1,6 +1,15 @@
 
+## 🏡 Portfolio
+
+https://hson.fr
+
 ## 🔭 Do it yourself 🌱
+
 ThreeJS Playgroud aesthetics showcase, fun toy - 🌍 https://hgosansn.github.io/threeJs_atmosphere/
+
+Articles about ecology and climate change - 🌲 https://hgosansn.github.io/HintsOfDecay/
+
+2D Plateformer zombie shooter game - 🧟 https://hgosansn.github.io/PlagueRecoil/
 
 ## AI will take your job, why not make AI work for you ?
 
