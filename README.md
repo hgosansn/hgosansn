@@ -29,9 +29,12 @@ Tech meets art generation 💥
 - AnimateDiff
 - HotShot XL 👯
 
-Side project art 🐥
-A French Rubber Duck #rubberduckarmy
+## Side project art 🐥
+
+#### A French Rubber Duck #rubberduckarmy
 - https://instagram.com/debain_canard
+### Cutie cats
+- https://www.instagram.com/pawsitive_meowchine
 
 Good'day 👋
 
