@@ -1,7 +1,8 @@
+## 🙋 About
 
-## 🏡 Portfolio
-
-https://hson.fr
+I'm a self taught fullstack developer. I'm passionate about tech and I love to learn new things. <br/>
+Always looking for new challenges and opportunities to grow. <br/> Read more about me and find ways to reach out on my page :
+* https://hson.fr
 
 ## 🔭 Do it yourself 🌱
 
