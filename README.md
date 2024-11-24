@@ -6,6 +6,8 @@ Always looking for new challenges and opportunities to grow. <br/> Read more abo
 
 ## 🔭 Do it yourself 🌱
 
+Emoji picker using Hex indexes - https://hgosansn.github.io/another-emoji-picker/
+
 ThreeJS Playgroud aesthetics showcase, fun toy - 🌍 https://hgosansn.github.io/threeJs_atmosphere/
 
 Articles about ecology and climate change - 🌲 https://hgosansn.github.io/HintsOfDecay/
