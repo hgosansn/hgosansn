@@ -2,8 +2,6 @@
 
 I'm a self-taught fullstack developer passionate about creating innovative web solutions using modern JavaScript, React, and Node.js. I love exploring cutting-edge technologies from Three.js 3D graphics to AI-powered development tools. Always looking for new challenges and opportunities to grow while building meaningful projects that solve real-world problems. <br/>
 
-**Tech Stack:** JavaScript/TypeScript, React, Angular, Node.js, Three.js, cloudformation, bash <br/>
-
 Read more about me and find ways to reach out on my page :
 * https://hson.fr
 
