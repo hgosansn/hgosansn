@@ -1,59 +1,44 @@
-## 🙋 About
+## About
 
-I'm a self taught fullstack developer. I'm passionate about tech and I love to learn new things. <br/>
-Always looking for new challenges and opportunities to grow. <br/> Read more about me and find ways to reach out on my page :
+I'm a self-taught fullstack developer passionate about creating innovative web solutions using modern JavaScript, React, and Node.js. I love exploring cutting-edge technologies from Three.js 3D graphics to AI-powered development tools. Always looking for new challenges and opportunities to grow while building meaningful projects that solve real-world problems. <br/>
+
+**Tech Stack:** JavaScript/TypeScript, React, Angular, Node.js, Three.js, cloudformation, bash <br/>
+
+Read more about me and find ways to reach out on my page :
 * https://hson.fr
 
-## 🔭 Do it yourself 🌱
+## Technical Projects
 
-Live market screener - 🩺 https://hgosansn.github.io/bnc-screener/
+Professional JSON Resume theme with modern features - [@hgosansn/jsonresume-theme-tone](https://github.com/hgosansn/jsonresume-theme-tone) <br/>
+*Built with Handlebars, Node.js, Puppeteer | Features: Dark mode, ATS-friendly, PDF export, GitHub Pages automation, QR codes*
 
-Emoji picker using hex indexes - ♻ https://hgosansn.github.io/another-emoji-picker/
+Live cryptocurrency market screener with real-time data - https://hgosansn.github.io/bnc-screener/ <br/>
+*Built with vanilla JavaScript and market APIs*
 
-ThreeJS Playgroud aesthetics showcase, fun toy - 🌍 https://hgosansn.github.io/threeJs_atmosphere/
+Efficient emoji picker using hex index optimization - https://hgosansn.github.io/another-emoji-picker/ <br/>
+*Vanilla JavaScript with optimized search algorithms*
 
-Articles about ecology and climate change - 🌲 https://hgosansn.github.io/HintsOfDecay/
+Three.js atmospheric effects playground and aesthetics showcase - https://hgosansn.github.io/threeJs_atmosphere/ <br/>
+*WebGL shaders, Three.js, particle systems*
 
-2D Plateformer zombie shooter game - 🧟 https://hgosansn.github.io/PlagueRecoil/
+Environmental awareness blog with climate change insights - https://hgosansn.github.io/HintsOfDecay/ <br/>
+*Static site generator with responsive design*
 
-## AI will take your job, why not make AI work for you ?
+2D platformer zombie survival shooter game - https://hgosansn.github.io/PlagueRecoil/ <br/>
+*HTML5 Canvas, game physics, sprite animations*
 
-Run Language Models to automate all the things :
+## Art & Creation
 
-Discover, download, and run local LLMs: https://lmstudio.ai/
+Tech meets art generation, Ai-assisted creativity with predictable guided outputs.
 
-## Art & Creation✨
+- Comfy UI https://github.com/comfyanonymous/ComfyUI
+- StableDiffusion XL https://stability.ai/
+- IpAdapters https://github.com/tencent-ailab/IP-Adapter
 
-Tech meets art generation 💥
+### Side project art
 
-- Comfy UI : ⚡ https://github.com/comfyanonymous/ComfyUI ⚡
-- StableDiffusion XL : https://stability.ai/
-- Control Nets 🖌️ : https://weirdwonderfulai.art/tutorial/how-to-use-control-lora-sdxl-for-comfyui/
-- IpAdapters : https://github.com/tencent-ailab/IP-Adapter
-- SVD : https://stability.ai/news/stable-video-diffusion-open-ai-video-model
-- AnimateDiff
-- HotShot XL 👯
+- #### A French Rubber Duck #rubberduckarmy
+  https://instagram.com/debain_canard
 
-## Side project art 🐥
-
-#### A French Rubber Duck #rubberduckarmy
-- https://instagram.com/debain_canard
-### Cutie cats
-- https://www.instagram.com/pawsitive_meowchine
-
-Good'day 👋
-
-<!--
-**hgosansn/hgosansn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- #### Cutie cats
+  https://www.instagram.com/pawsitive_meowchine
