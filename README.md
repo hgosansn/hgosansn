@@ -5,6 +5,21 @@ I'm a self-taught fullstack developer passionate about creating innovative web s
 Read more about me and find ways to reach out on my page :
 * https://hson.fr
 
+## Open claw'd
+
+Just like in 2023 when using comfyUi to generate predictable images felt early and amazing. 
+Fiddling around oepnclaw today feels early (as of Febuary 2026) into multi agent automation.
+
+What i'm currently building
+
+
+🦖 - Deskling - https://github.com/hgosansn/Deskling
+  Desk companion cross platform built in Rust
+
+🏗️ - AgentPrompts - https://github.com/hgosansn/AgentPrompts
+  List of some agent prompt i've come to reuse
+
+
 ## Projects
 
 📃 - Professional JSON Resume theme with modern features - [@hgosansn/jsonresume-theme-tone](https://github.com/hgosansn/jsonresume-theme-tone) <br/>
