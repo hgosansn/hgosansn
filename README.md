@@ -5,25 +5,14 @@ I'm a self-taught fullstack developer passionate about creating innovative web s
 Read more about me and find ways to reach out on my page :
 * https://hson.fr
 
-## Technical Projects
+## Projects
 
-Professional JSON Resume theme with modern features - [@hgosansn/jsonresume-theme-tone](https://github.com/hgosansn/jsonresume-theme-tone) <br/>
-*Built with Handlebars, Node.js, Puppeteer | Features: Dark mode, ATS-friendly, PDF export, GitHub Pages automation, QR codes*
-
-Live cryptocurrency market screener with real-time data - https://hgosansn.github.io/bnc-screener/ <br/>
-*Built with vanilla JavaScript and market APIs*
-
-Efficient emoji picker using hex index optimization - https://hgosansn.github.io/another-emoji-picker/ <br/>
-*Vanilla JavaScript with optimized search algorithms*
-
-Three.js atmospheric effects playground and aesthetics showcase - https://hgosansn.github.io/threeJs_atmosphere/ <br/>
-*WebGL shaders, Three.js, particle systems*
-
-Environmental awareness blog with climate change insights - https://hgosansn.github.io/HintsOfDecay/ <br/>
-*Static site generator with responsive design*
-
-2D platformer zombie survival shooter game - https://hgosansn.github.io/PlagueRecoil/ <br/>
-*HTML5 Canvas, game physics, sprite animations*
+📃 - Professional JSON Resume theme with modern features - [@hgosansn/jsonresume-theme-tone](https://github.com/hgosansn/jsonresume-theme-tone) <br/>
+📈 - Live cryptocurrency market screener with real-time data - https://hgosansn.github.io/bnc-screener/ <br/>
+😉 - Efficient emoji picker ad-free - https://hgosansn.github.io/another-emoji-picker/ <br/>
+🌍 - Earth esthetics showcase - https://hgosansn.github.io/threeJs_atmosphere/ <br/>
+🎮 - 2D platformer zombie survival shooter game - https://hgosansn.github.io/PlagueRecoil/ <br/>
+♻️ - Environmental awareness blog with climate change insights - https://hgosansn.github.io/HintsOfDecay/ <br/>
 
 ## Art & Creation
 
