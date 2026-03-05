@@ -13,7 +13,8 @@ Fiddling around oepnclaw today feels early (as of Febuary 2026) into multi agent
 What i'm currently building
 
 
-🦖 - Deskling - https://github.com/hgosansn/Deskling
+🦖 - Deskling - MVP here https://hgosansn.github.io/slopformer/
+[WIP] https://github.com/hgosansn/Deskling 
   Desk companion cross platform built in Rust
 
 🏗️ - AgentPrompts - https://github.com/hgosansn/AgentPrompts
