@@ -8,7 +8,7 @@ Read more about me and find ways to reach out on my page :
 ## Open claw'd
 
 Just like in 2023 when using comfyUi to generate predictable images felt early and amazing. 
-Fiddling around oepnclaw today feels early (as of Febuary 2026) into multi agent automation.
+Fiddling around openclaw today feels early (as of Febuary 2026) into multi agent automation.
 
 What i'm currently building
 
