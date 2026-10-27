@@ -16,7 +16,6 @@ Read more about me and find ways to reach out on my page :
 😉 - Efficient emoji picker ad-free - https://hgosansn.github.io/another-emoji-picker/ <br/>
 🌍 - Earth esthetics showcase - https://hgosansn.github.io/threeJs_atmosphere/ <br/>
 🎮 - 2D platformer zombie survival shooter game - https://hgosansn.github.io/PlagueRecoil/ <br/>
-♻️ - Environmental awareness blog with climate change insights - https://hgosansn.github.io/HintsOfDecay/ <br/>
 
 ## Art & Creation
 
