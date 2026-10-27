@@ -5,13 +5,9 @@ I'm a self-taught fullstack developer passionate about creating innovative web s
 Read more about me and find ways to reach out on my page :
 * https://hson.fr
 
-## What i'm currently building
+## Some of my latest experiments
 
-🦖 - Deskling - MVP here https://hgosansn.github.io/slopformer/
-
-🏗️ - AgentPrompts - https://github.com/hgosansn/AgentPrompts
-  List of some agent prompt i've come to reuse
-
+🦖 - SlopCore - https://hgosansn.github.io/slopformer/
 
 ## Archive
 
