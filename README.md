@@ -7,6 +7,7 @@ Read more about me and find ways to reach out on my page :
 
 ## Some of my latest experiments
 
+🌆 - IndusKorve - https://hgosansn.github.io/Induskorve/
 🦖 - SlopCore - https://hgosansn.github.io/slopformer/
 
 ## Archive
